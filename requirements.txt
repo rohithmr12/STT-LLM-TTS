@@ -2,3 +2,10 @@ langchain
 streamlit
 streamlit_audio_recorder
 SpeechRecognition
+transcribe 
+openai
+langchain-core
+python-dotenv
+gtts
+soundfile
+speechrecognition
